@@ -1,0 +1,50 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orleans.StorageProvider.DocumentDb", "Orleans.StorageProvider.DocumentDb\Orleans.StorageProvider.DocumentDb.csproj", "{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orleans.StorageProvider.DocumentDb.Tests", "Orleans.StorageProvider.DocumentDb.Tests\Orleans.StorageProvider.DocumentDb.Tests.csproj", "{C43B2319-F65E-4EB6-9293-AEC131A50615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Debug|x64.Build.0 = Debug|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Debug|x86.Build.0 = Debug|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Release|x64.ActiveCfg = Release|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Release|x64.Build.0 = Release|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Release|x86.ActiveCfg = Release|Any CPU
+		{C0AC7C39-D018-4B02-AF8B-B958AEE57A01}.Release|x86.Build.0 = Release|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Debug|x64.Build.0 = Debug|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Debug|x86.Build.0 = Debug|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Release|x64.ActiveCfg = Release|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Release|x64.Build.0 = Release|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Release|x86.ActiveCfg = Release|Any CPU
+		{C43B2319-F65E-4EB6-9293-AEC131A50615}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C854D43F-E551-46C4-9A8C-E6073885699E}
+	EndGlobalSection
+EndGlobal
